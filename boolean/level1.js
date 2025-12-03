@@ -25,3 +25,20 @@ console.log((num1 > num2) && (lang1.length > lang2.length));
 
 //using or operator ,check if num2 is less than num1 or lang2 length is greater than lang1 length ,output should be true
 console.log((num2 < num1) || (lang2.length > lang1.length));
+
+let a =10
+let b = 20
+
+// Q1. check if a is greater than b
+  let greater = a > b ;
+  console.log(greater);
+
+
+/// Q2. check if  10 * a and check if it is greater or euqals than b
+
+   let greater1 = 10 * a >= b ;
+   console.log(greater1);
+
+// Q3. check if b is divisible by a
+let divide = b % a ;
+console.log(divide);
