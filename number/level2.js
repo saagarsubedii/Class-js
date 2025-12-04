@@ -1,4 +1,5 @@
-//Calculate the absolute value of -15.    Math.abs()
+//Calculate the absolute value of -15.  
+let a = Math.abs(-15);
 //Q8    Round the number 8.7 down to the nearest integer.    Math.floor()
 let  x = Math.floor(8.7);
 console.log(x);
