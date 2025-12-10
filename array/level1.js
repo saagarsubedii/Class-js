@@ -56,6 +56,15 @@ let shyamPercentage = ( 77 + 92 +87)/300 * 100;
 let result = ramPercentage > shyamPercentage;
 console.log(result);
 
+let name = ["ram" ,"shyam"]
+let maxScore = 100 ;
+
+//Get the second element from the names array. Check if this element is strictly equal (===) to the string "Ram".
+let secondName = name[1] === "ram";
+console.log(secondName);
+
+//using the ramScore array, change the value of the first element (95) to 100. Then, check if the first element is now strictly equal to maxScore.
+let
 
 
 
